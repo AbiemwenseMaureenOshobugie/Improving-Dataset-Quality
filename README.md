@@ -1,5 +1,5 @@
-# Improving-Dataset-Quality
-Data Cleaning with Python
+# Web Scraping
+Using BeautifulSoup
 
 The purpose of each code is to scrape news articles from the BBC website in different languages, specifically Igbo, Yoruba, Hausa, and Pidgin. the following steps were accomplshed:
 
